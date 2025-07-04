@@ -1,5 +1,5 @@
-# CarND Controls MPC
-### Udacity Self-Driving Car Engineer Nanodegree. Project: Model Predictive Control
+Udacity Model Predictive Control Project for Self-Driving Cars
+
 This Project is the tenth task of the Udacity Self-Driving Car Nanodegree program. The main goal of the project is to implement in C++ Model Predictive Control to drive the car around the track. The program uses a simple Global Kinematic Model. Parameters were tuned in order to reach maximal speed.
 
 ![Title animation](readme_img/title.gif)
